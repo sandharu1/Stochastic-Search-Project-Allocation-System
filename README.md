@@ -1,0 +1,2 @@
+# Stochastic-Search-Project-Allocation-System
+Idea Factory built a Stochastic Search Project Allocation System that user can allocate a project to each student from among their highest preferences. Team will be implementing two stochastic techniques Simulated Annealing and the Genetic Algorithm will be used to generate random solutions for project allocation. Finally, user will get solution validation with generated report.
